@@ -1,0 +1,109 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+}
+.orange-color{
+    color: orange;
+   
+}
+.text-centre{
+    text-align: justify;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 91px;
+    
+}
+
+
+.half-width img {
+    width: 80%;
+    
+}
+#png-2 {
+    width: 50%;
+    padding-top: 30px;
+}
+
+.diet-banner{
+    display: flex;
+    margin-bottom: 150px;
+}
+#diet-banner-2{
+    display: flex;
+}
+
+
+.box-padding{
+    padding-top: 100px;
+    padding-right: 100px;
+}
+
+
+.link-botton{
+    text-decoration: none;
+background-image: linear-gradient(to right, orange, rgb(236, 54, 22));
+padding: 10px 44px;
+color: white;
+border-radius: 34px;
+box-shadow: 11px 8px 41px #ea842b;
+}
+.middle-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat:no-repeat;
+}
+
+.box-recipie{
+
+width: 30%;
+margin-right: 5%;
+margin-left: 5%;
+    padding-left: 30px;
+    border-radius: 20px;
+    box-shadow: 1px 4px 18px #bbb0b0;
+}
+#order-now {
+
+    
+    margin-right: 5%;
+    margin-left: 5%;
+        padding-left: 30px;
+        padding-top: 34px;
+        border-radius: 20px;
+        box-shadow: 1px 4px 18px #bbb0b0;
+    }
+    .order{
+        text-align: center;
+    }
+.box-recipie img{
+    width: 90%;
+}
+input{
+    height: 7%;
+    width: 35%;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 3px;
+   
+   
+}
+textarea{
+    margin: 20px 0px 0px;
+    width: 392px;
+    height: 123px;
+}
+footer{
+    background-color: rgb(36, 34, 34);
+    padding: 34px 23px;
+    color: white;
+    text-align: center;
+}
+
+#network-color{
+    color: #bbb9b9;
+}
